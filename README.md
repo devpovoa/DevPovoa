@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thiago Povoa
 
 
-- 🔭 Hoje trabalho com back-end 
+- 🔭 Hoje foco no back-end 
 - 🌱 Estudando Java
 - 😄 Pronouns: ele/ele
 
