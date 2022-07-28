@@ -1,4 +1,4 @@
-## Olá! Eu sou o Thiago Povoa
+## Welcome to my repository, my name is Thiago Povoa, nice to meet you!
 
 
 - 🔭 Hoje foco no back-end 
