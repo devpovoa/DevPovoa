@@ -13,7 +13,6 @@
 
 </div>
 <div style="display: inline_block"><br>
-
   <img align="center" alt="Povoa-java" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180897910-4478b8d8-051b-46ba-b5e8-0a55f0315a0a.svg">
   <img align="center" alt="Povoa-Spring" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180898206-864cbec2-bebd-4083-b272-ffac07563105.svg">
   <img align="center" alt="Povoa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
