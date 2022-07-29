@@ -19,8 +19,8 @@
   <img align="center" alt="Povoa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Povoa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Povoa-Ts" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180898906-6335c009-6c0c-48d9-8cb6-f14e4da0e4a6.svg">
-    <img align="center" alt="Povoa-Angula" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180898866-f7b991e9-ad92-4b30-bf79-2a3d98989fa2.svg">
-</div>
+    /*<img align="center" alt="Povoa-Angula" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180898866-f7b991e9-ad92-4b30-bf79-2a3d98989fa2.svg">
+</div>*/
   
   ##
   
