@@ -1,9 +1,8 @@
 ## Welcome to my repository, my name is Thiago Povoa, nice to meet you!
 
 
-- 🔭 Hoje foco no back-end 
+- 🔭 Atualmente focado no server-side 
 - 🌱 Estudando Java
-- 😄 Pronouns: ele/ele
 
 <div align="center">
   <a href="https://github.com/devpovoa">
