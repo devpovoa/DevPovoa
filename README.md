@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente focado no Back-End
--  📚Conhecimento em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS
+- 📚 Conhecimentos em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS
 - 🌱 Estudando Java | Spring Boot | APis | Banco de Dados | MVC
 
 <div align="center">
