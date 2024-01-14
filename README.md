@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente focado no desenvolvimento Full Stack
 - 📚 Conhecimentos em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS | JQuery | Angular | TypeScript
-- 🌱 Estudando Java | Spring Boot | APis | Banco de Dados 
+- 🌱 Estudando Java | Spring Boot | APis | Banco de Dados | Docker
 
 <div align="center">
   <a href="https://github.com/devpovoa">
@@ -14,7 +14,7 @@
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Povoa-java" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180897910-4478b8d8-051b-46ba-b5e8-0a55f0315a0a.svg">
     <img align="center" alt="Povoa-Spring" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180898206-864cbec2-bebd-4083-b272-ffac07563105.svg">
-    <img align="center" alt="Povoa-SQL" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/182856206-e0077baf-2aef-489d-a521-7962fe361e5c.svg">
+    <img align="center" alt="Povoa-SQL-Docker" height="30" width="40" src="https://github.com/devpovoa/DevPovoa/assets/75958253/9ae88e1f-f076-4013-83eb-6accb9b64477">
     <img align="center" alt="Povoa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Povoa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Povoa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
