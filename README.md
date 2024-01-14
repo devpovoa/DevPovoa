@@ -1,9 +1,9 @@
 ## Welcome to my repository, my name is Thiago Povoa, nice to meet you!
 
 
-- 🔭 Atualmente focado no Back-End
-- 📚 Conhecimentos em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS
-- 🌱 Estudando Java | Spring Boot | APis | Banco de Dados | MVC
+- 🔭 Atualmente focado no desenvolvimento Full Stack
+- 📚 Conhecimentos em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS | JQuery | Angular | TypeScript
+- 🌱 Estudando Java | Spring Boot | APis | Banco de Dados 
 
 <div align="center">
   <a href="https://github.com/devpovoa">
