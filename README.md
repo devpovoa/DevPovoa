@@ -23,6 +23,7 @@
     <img align="center" alt="Povoa-Bootstrap" height="30" width="40" src="https://github.com/devpovoa/DevPovoa/assets/75958253/b98903d4-33f4-4dea-a841-c138bd74a145">
     <img align="center" alt="Povoa-JQuery" height="30" width="40" src="https://github.com/devpovoa/DevPovoa/assets/75958253/3a25cb22-a898-4fb1-b01a-eb1e457455ea">
     <img align="center" alt="Povoa-NodeJS" height="30" width="40" src="https://github.com/devpovoa/DevPovoa/assets/75958253/6d97493c-f2ac-4a20-8bf7-0f4f30eb70c1">
+    <img align="center" alt="Povoa-Python" height="30" width="40" src="https://github.com/devpovoa/DevPovoa/assets/75958253/447062bb-16b9-4a8d-96ae-882a725e6562">
 </div>
 
   ##
