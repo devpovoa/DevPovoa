@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente focado no desenvolvimento Full Stack
-- 📚 Conhecimentos em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS | JQuery | Angular | TypeScript | Python | React-Native | Java | Java | Spring Boot | APis Rest & SOAP | Banco de Dados | Docker
+- 📚 Conhecimentos em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS | JQuery | Angular | TypeScript | Python | React-Native | Java | Spring Boot | APis Rest & SOAP | Banco de Dados | Docker
 - 🌱 Estudando....
 
 <div align="center">
