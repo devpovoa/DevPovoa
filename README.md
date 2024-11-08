@@ -5,12 +5,7 @@
 - 📚 Conhecimentos em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS | JQuery | Angular | TypeScript | Python | React-Native | Java | Spring Boot | APis Rest & SOAP | Banco de Dados | Docker
 - 🌱 Estudando....
 
-<div align="center">
-  <a href="https://github.com/devpovoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api username=devpovoa&show_icons=true&&bg_color=DEG,22c1c3,1e8081,0d3536&title_color=000000&text_color=000000&icon_color=000000&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact&bg_color=DEG,0d3536,1e8081,22c1c3&title_color=000000&text_color=000000&langs_count=7&theme=tokyonight"/>
-</div>
+
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Povoa-java" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180897910-4478b8d8-051b-46ba-b5e8-0a55f0315a0a.svg">
     <img align="center" alt="Povoa-Spring" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180898206-864cbec2-bebd-4083-b272-ffac07563105.svg">
