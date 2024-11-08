@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/devpovoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpovoa&show_icons=true&&bg_color=DEG,22c1c3,1e8081,0d3536&title_color=000000&text_color=000000&icon_color=000000&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api username=devpovoa&show_icons=true&&bg_color=DEG,22c1c3,1e8081,0d3536&title_color=000000&text_color=000000&icon_color=000000&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact&bg_color=DEG,0d3536,1e8081,22c1c3&title_color=000000&text_color=000000&langs_count=7&theme=tokyonight"/>
 </div>
