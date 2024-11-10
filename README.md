@@ -1,14 +1,26 @@
-## Welcome to my repository, my name is Thiago Povoa, nice to meet you!
+# Welcome to my repository, nice to meet you! 😁
 
+---
+| 🖥️ Desenvolvimento Server-side 	| 💻 Desenvolvimento Client-side: 	| 📱 Desenvolvimento Mobile: 	| 🔨 Resources     	|
+|-------------------------------	|--------------------------------	|---------------------------	|-----------------	|
+| **Java**                      	| **HMTL5**                      	| **React Native**          	| **Spring Boot** 	|
+| **JavaScript**                	| **CSS3**                       	|                           	| **Angular**     	|
+| **Python**                    	| **JavaScript**                 	|                           	| **NodeJs**      	|
+| **C#**                        	|                                	|                           	| **TypeScript**  	|
+|                               	|                                	|                           	| **Expo**        	|
+|                               	|                                	|                           	| **.NET**        	|
 
-- 🔭 Atualmente focado no desenvolvimento Full Stack
-- 📚 Conhecimentos em HTML5 | CSS3 | JavaScript | Bootstrap | NodeJS | JQuery | Angular | TypeScript | Python | React-Native | Java | Spring Boot | APis Rest & SOAP | Banco de Dados | Docker
-- 🌱 Estudando....
+---
+
+- ***🔭 Atualmente focado no desenvolvimento Full Stack e estudando .... 🌱***
+
+  ---
+  
   <div align="center">
   <a href="https://github.com/DevPovoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpovoa&DevPovoa&show_icons=true&&bg_color=DEG,22c1c3,1e8081,0d3536&title_color=000000&text_color=000000&icon_color=000000&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpovoa&show_icons=true&&bg_color=DEG,22c1c3,1e8081,0d3536&title_color=000000&text_color=000000&icon_color=000000&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&DevPovoa&layout=compact&bg_color=DEG,0d3536,1e8081,22c1c3&title_color=000000&text_color=000000&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact&bg_color=DEG,0d3536,1e8081,22c1c3&title_color=000000&text_color=000000&langs_count=7&theme=tokyonight"/>
 </div>
 
 
