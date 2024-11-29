@@ -16,11 +16,12 @@
 
   ---
   
-<div align="center">
-  <a href="https://github.com/DevPovoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpovoa&show_icons=true&&bg_color=DEG,22c1c3,1e8081,0d3536&title_color=000000&text_color=000000&icon_color=000000&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact&bg_color=DEG,0d3536,1e8081,22c1c3&title_color=000000&text_color=000000&langs_count=7&theme=tokyonight"/>
-</div>
+  <a href="https://github.com/devpovoa/DevPovoa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devpovoa&theme=default&show_icons=true" />
+    </a>
+    <a href="https://github.com/devpovoa/DevPovoa">
+    <img align="center" width="355" heigth="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact" />
+  </a>
 
 
   <div style="display: inline_block" align="center"><br>
