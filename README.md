@@ -15,14 +15,14 @@
 - ***🔭 Atualmente focado no desenvolvimento Full Stack e estudando .... 🌱***
 
   ---
-  
+  <div align="center">
   <a href="https://github.com/devpovoa/DevPovoa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devpovoa&theme=default&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devpovoa&theme=default&show_icons=true" />
     </a>
     <a href="https://github.com/devpovoa/DevPovoa">
-    <img align="center" width="355" heigth="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact" />
   </a>
-
+  </div>
 
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Povoa-java" height="30" width="40" src="https://user-images.githubusercontent.com/75958253/180897910-4478b8d8-051b-46ba-b5e8-0a55f0315a0a.svg">
