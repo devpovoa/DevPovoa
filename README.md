@@ -17,10 +17,10 @@
   ---
   <div align="center">
   <a href="https://github.com/devpovoa/DevPovoa">
-    <img src="https://github-readme-stats.vercel.app/api?username=devpovoa&theme=default&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpovoa&theme=default&show_icons=true" />
     </a>
     <a href="https://github.com/devpovoa/DevPovoa">
-    <img width="356" heigth="356" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact" />
   </a>
   </div>
 
