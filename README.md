@@ -9,7 +9,7 @@
 | **C#**                        	|                                	|                           	| **TypeScript**  	|
 |                               	|                                	|                           	| **Expo**        	|
 |                               	|                                	|                           	| **.NET**        	|
-
+|                                 |                                 |                             | **Bootstrap**     |
 ---
 
 - ***🔭 Atualmente focado no desenvolvimento Full Stack e estudando .... 🌱***
