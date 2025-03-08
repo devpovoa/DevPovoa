@@ -10,13 +10,14 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolv
 
 | 🖥️ Back-end | 💻 Front-end | 📱 Mobile | 🔨 Tools & Frameworks |
 |------------|-------------|-----------|---------------------|
-| **Java** | **HTML5** | **React Native** | **Spring Boot** |
-| **C#** | **CSS3** |  | **Angular** |
-| **JavaScript** | **JavaScript** |  | **Node.js** |
-| **Python** |  |  | **TypeScript** |
-|  |  |  | **.NET** |
-|  |  |  | **Bootstrap** |
-|  |  |  | **Expo** |
+| **C#** | **HTML5** | **React Native** | **.NET** |
+| **Java** | **CSS3** | **Expo** | **Spring Boot** |
+| **JavaScript** | **JavaScript** |  | **Angular** |
+| **Python** | **TypeScript** |  | **Node.js** |
+| **SQL Server** | **Bootstrap** |  | **Knex.js** |
+| **MySQL** | **jQuery** |  | **Docker** |
+| **PostgreSQL** |  |  | **Swagger** |
+| **MongoDB** |  |  | **Git** |
 
 ---
 
