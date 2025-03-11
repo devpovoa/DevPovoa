@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Thiago Povoa! Nice to meet you. 😁
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolvimento **Full Stack**. Atualmente, estou aprimorando minhas habilidades em **.NET e Angular**, aplicando boas práticas, SOLID e Design Patterns para construir soluções eficientes.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolvimento **Full Stack**. Atualmente, estou aprimorando minhas habilidades em **.NET,Nodejs e React**, aplicando boas práticas, SOLID e Design Patterns para construir soluções eficientes.
 
 ---
 
