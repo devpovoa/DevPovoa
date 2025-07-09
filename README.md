@@ -1,27 +1,12 @@
-# 👋 Welcome to My Repository!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Thiago Povoa&color=0:00BCFF,100:00FF89&height=230&section=header&fontColor=ffffff" />
 
-### Hi there, I'm Thiago Povoa! Nice to meet you. 😁
-
-Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolvimento **Full Stack**. Atualmente, estou aprimorando minhas habilidades em **.NET, Nodejs e React**, aplicando boas práticas, SOLID e Design Patterns para construir soluções eficientes.
-
+<div>
+    <p align="center">
+    Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolvimento <strong>Back End</strong>. Atualmente, estou aprimorando minhas habilidades em <strong>Python, Django, Nodejs e React</strong>, aplicando boas práticas, SOLID e Design Patterns para construir soluções eficientes.
+    </p>
+</div>
 ---
-
-## 🚀 Tech Stack
-
-| 🖥️ Back-end | 💻 Front-end | 📱 Mobile | 🔨 Tools & Frameworks |
-|------------|-------------|-----------|---------------------|
-| **C#** | **HTML5** | **React Native** | **.NET** |
-| **Java** | **CSS3** | **Expo** | **Spring Boot** |
-| **JavaScript** | **JavaScript** |  | **Angular** |
-| **Python** | **TypeScript** |  | **Node.js** |
-| **SQL Server** | **Bootstrap** |  | **Knex.js** |
-| **MySQL** | **jQuery** |  | **Docker** |
-| **PostgreSQL** | **React** |  | **Swagger** |
-| **MongoDB** |  |  | **Git** |
-| **OracleBD** |  |  | **Entity Framework** |
-|  |  |  | **Express.js** |
-
----
+<br />
 
 ## 📈 GitHub Stats
 
@@ -32,26 +17,25 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolv
   <a href="https://github.com/devpovoa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact&langs_count=10"/>
   </a>
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevPovoa&bg_color=ffffff&color=0000ff&hide_border=true&line=808080&point=0000ff&area=true" atl="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
 
----
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=devpovoa&theme=darkhub&row=1&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/75958253/180897910-4478b8d8-051b-46ba-b5e8-0a55f0315a0a.svg" height="40" title="Java">
-  <img src="https://user-images.githubusercontent.com/75958253/180898206-864cbec2-bebd-4083-b272-ffac07563105.svg" height="40" title="Spring Boot">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" height="40" title=".NET">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" title="C#">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" title="HTML5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" title="JavaScript">
-  <img src="https://github.com/devpovoa/DevPovoa/assets/75958253/9fba7f3c-53c9-433d-b2cd-7490c8256f93" height="40" title="TypeScript">
-  <img src="https://github.com/devpovoa/DevPovoa/assets/75958253/704b91c4-a477-4709-a14a-28ae4cade6f3" height="40" title="Angular">
-  <img src="https://github.com/devpovoa/DevPovoa/assets/75958253/3a25cb22-a898-4fb1-b01a-eb1e457455ea" height="40" title="jQuery">
-  <img src="https://github.com/devpovoa/DevPovoa/assets/75958253/6d97493c-f2ac-4a20-8bf7-0f4f30eb70c1" height="40" title="Node.js">
-  <img src="https://github.com/devpovoa/DevPovoa/assets/75958253/447062bb-16b9-4a8d-96ae-882a725e6562" height="40" title="Python">
-  <img src="https://github.com/user-attachments/assets/43344896-08d0-445c-bc6f-02a213a3e698" height="40" title="React Native">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </div>
 
 ---
@@ -69,3 +53,4 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolv
 
 🚀 Sempre aprendendo e evoluindo! Obrigado pela visita! 😊
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF89,100:00BCFF&height=120&section=footer" />
