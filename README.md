@@ -5,7 +5,7 @@
     Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolvimento <strong>Back End</strong>. Atualmente, estou aprimorando minhas habilidades em <strong>Python, Django, Nodejs e React</strong>, aplicando boas práticas, SOLID e Design Patterns para construir soluções eficientes.
     </p>
 </div>
----
+
 <br />
 
 ## 📈 GitHub Stats
@@ -19,7 +19,7 @@
   </a>
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevPovoa&bg_color=ffffff&color=0000ff&hide_border=true&line=808080&point=0000ff&area=true" atl="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
-
+<br>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devpovoa&theme=darkhub&row=1&no-bg=true&margin-w=15&margin-h=15" />
 </p>
@@ -38,7 +38,6 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </div>
 
----
 
 ## 📫 Connect with me!
 
@@ -49,7 +48,6 @@
   <a href="https://twitter.com/ThiagoPovoa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
----
 
 🚀 Sempre aprendendo e evoluindo! Obrigado pela visita! 😊
 
