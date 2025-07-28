@@ -2,7 +2,7 @@
 
 <div>
     <p align="center">
-    Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolvimento <strong>Back End</strong>. Atualmente, estou aprimorando minhas habilidades em <strong>Python, Django e React</strong>, aplicando boas práticas, SOLID e Design Patterns para construir soluções eficientes.
+    Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em desenvolvimento <strong>Back End</strong>. Atualmente, estou aprimorando minhas habilidades em <strong>Python, Django e FastAPI</strong>, aplicando boas práticas, SOLID e Design Patterns para construir soluções eficientes.
     </p>
 </div>
 
