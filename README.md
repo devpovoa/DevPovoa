@@ -17,7 +17,7 @@
   <a href="https://github.com/devpovoa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpovoa&layout=compact&langs_count=10"/>
   </a>
-   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevPovoa&bg_color=ffffff&color=0000ff&hide_border=true&line=808080&point=0000ff&area=true" atl="https://github.com/ashutosh00710/github-readme-activity-graph" />
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devpovoa&bg_color=ffffff&color=0000ff&hide_border=true&line=808080&point=0000ff&area=true" atl="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
 <br>
 <p align="center">
